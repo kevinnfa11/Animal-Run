@@ -1,0 +1,2 @@
+# Animal-Run
+Animal Run adalah project pengembangan game dengan menggunakan Unity. Pemain memainkan peran sebagai seekor serigala yang memiliki lima nyawa lalu mengalahkan semua musuhnya agar sampai ke kerajaan serigala dengan selamat dan mengumpulkan cherry sebanyak-banyaknya agar dapat mencapai high score. Game juga memiliki beberapa level yang berbeda dan memiliki tingkat kesulitan yang berbeda pada setiap level. Game ini juga memiliki fitur multiplayer dimana antara player beradu untuk mendapatkan score paling tinggi.
